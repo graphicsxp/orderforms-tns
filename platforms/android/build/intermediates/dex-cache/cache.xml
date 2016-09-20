@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f3064a6bb3bf091d8ef08a38816df98e4c033ce2">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_138212083b76a4c25508f7c854cdcc6356555b14.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-24.2.1_40ac034fc4295e4637f914fe39a225b78c8a2bfa.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-24.2.1_66d0f86c877607e4caa00b7a35529adca83a2003.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\orderformstns\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9909ad5fcc13fcc60529cfa340ee7e0abc79af38">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\orderformstns-runtime-unspecified_7941d21e592888ae97dfe8f6ef625c35ce7eab14.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-24.2.1_46e0a3eefb3ab7a4f0988ada9c9ef59adb33cba6.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_7f2fa45a56b53ca5a91f4f21b823d686f12cf9a4.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-24.2.1_aeaeaf6e61e30c9a1e1d270253e28c9934e606f4.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-24.2.1_0e1d2ca6ab5d0be5ffe6647f2a5819618ed32f2f.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-24.2.1_570a76270ce8e023a3ed8f6d7dd9fc8f26121096.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_2d8675fdff0078304ce0dce78d702cc5488229a6.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_f29b895f9db331e12370146bd1d27a5f59d27633.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\orderformstns\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4290aba11bda501dbadc2dd5c4b08282c0bbfeb8">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_12c5ae8849b31a8d62bfa954c2f41a63ee084d6f.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-24.2.1_3bdb41fc770798b94a6d5d3498a00af7e60f4b10.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_a48c7be22c6578e27934c7a52cf8edd4e2a022d7.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-24.2.1_281bfe65cfe9a2dfd94a0d4d011a21ec904f7bda.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\internal_impl-24.2.1_ca989eb36230eed3a3d468c398b81d18094f8046.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-24.2.1_20651b38ccb262f83a0f31b9339344ec557e17a6.jar" />
+    </item>
+    <item
+        jar="C:\dev\orderforms-tns\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\dev\orderforms-tns\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-24.2.1_4e47e8bd1717cc00ac87b92f176a2ecec5640c5a.jar" />
+    </item>
+
+</items>
