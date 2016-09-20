@@ -14,7 +14,7 @@ export class OrderFormListComponent
     implements OnInit {
 
     // orderForms: IOrderForm[] = [];
-    orderForms: Observable<Array<IOrderForm>>;
+    orderForms: Array<IOrderForm>;
     errorMessage: string;
     deviceStorage: number;
     listLoaded = false
@@ -28,7 +28,7 @@ export class OrderFormListComponent
     ngOnInit(): void {        
                 this.isLoading = true;
         
-        this.orderForms = this._orderFormService.getOrderForms()
+        this._orderFormService.getOrderForms()
             .subscribe(
             orderForms => {
                 this.orderForms = orderForms;
